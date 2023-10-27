@@ -24,3 +24,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+  titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: true
