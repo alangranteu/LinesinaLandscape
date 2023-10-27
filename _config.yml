@@ -3,9 +3,9 @@ plugins:
   - jekyll-sitemap
 
 # SEO Stuff
-name: Slow trains and fast walks
+name: Slow Trains Fast Walks (and vice versa)
 author: Alan Grant
-description: Alan's ramblings
+description: A personal site and blog about train travel and hiking, main in the province of Málaga
 lang: en
 locale: en_GB
 url: "https://alangrant.eu"
