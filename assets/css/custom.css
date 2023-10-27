@@ -5,8 +5,8 @@ img, iframe {
     margin-right: auto;
 }
 
-/* site name in header (not set up as a heading so needs style) /
-header > .headername
+/* site name in header (not set up as a heading so needs style) */
+p.headername
 {
     max-width: 1200px;
     margin: 1rem auto;
