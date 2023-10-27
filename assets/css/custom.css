@@ -4,3 +4,15 @@ img, iframe {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* site name in header (not set up as a heading so needs style) /
+header > .headername
+{
+    max-width: 1200px;
+    margin: 1rem auto;
+    overflow-wrap: break-word;
+    line-height: 1.1;
+    font-size: 1.25 rem;
+    font-weight: bold;
+}
+
