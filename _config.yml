@@ -3,8 +3,9 @@ plugins:
   - jekyll-sitemap
 
 # SEO Stuff
+name: Slow trains and fast walks
 author: Alan Grant
-summary: Alan's rambling
+description: Alan's ramblings
 lang: en
 locale: en_GB
 url: "https://alangrant.eu"
@@ -13,3 +14,13 @@ baseurl: ""
 # RSS feeds
 feed:
   posts_limit: 20
+
+
+permalink: /:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME

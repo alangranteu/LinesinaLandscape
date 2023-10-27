@@ -1,10 +1,4 @@
----
-layout: default
-# Blog | Alan't Test Blog
-header: Blog
-summary: Where the magic happens - this is the blog!
-link: /blog/
----
+# Alan's Blog
 
 {% for post in site.posts %}
   <p><a href="{{ post.url }}">{{ post.title }}</a><br>
