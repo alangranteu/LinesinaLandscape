@@ -7,6 +7,16 @@ description: Photo essays on every train and metro station in Málaga province
 
 This is a personal project to visit and photograph all the train and metro stations in the provice of Málaga.
 
+[Blog](blog.md)
+[Blog](\blog.md)
+[Blog](\blog.html)
+[Blog](\blog)
+[El Chorro - Caminito del Rey](\_posts\2023-10-29-el-chorro.md)
+[El Chorro - Caminito del Rey](_posts\2023-10-29-el-chorro.md)
+[El Chorro - Caminito del Rey](2023-10-29-el-chorro.md)
+[El Chorro - Caminito del Rey](el-chorro.md)
+[El Chorro - Caminito del Rey](\el-chorro.md)
+
 ## Stations with long- and medium- distance services
 
 - Málaga Centro - Alameda
