@@ -8,11 +8,12 @@ description: Photo essays on every train and metro station in Málaga province
 This is a personal project to visit and photograph all the train and metro stations in the provice of Málaga.
 
 ## Stations with long- and medium- distance services
+
 - Málaga Centro - Alameda
 - Málaga María Zambrano
-- Álora
+- Álora 
 - Las Mellizas
-- El Chorro-Caminito del Rey
+- [El Chorro - Caminito del Rey](every-station-malaga\el chorro.md)
 - Bobadilla
 - Antequera-Santa Ana
 - Campillos
@@ -26,6 +27,7 @@ This is a personal project to visit and photograph all the train and metro stati
 - Antequera AV
 
 ## Stations with local (Cercanías) services only
+
 - Pizarra
 - Aljaima
 - Cártama
@@ -47,6 +49,7 @@ This is a personal project to visit and photograph all the train and metro stati
 - Montemar Alto
 
 ## Metro stations
+
 - Ciudad de la Justicia
 - La Unión
 - Andalucía Tech
