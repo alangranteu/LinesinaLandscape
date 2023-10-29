@@ -7,6 +7,5 @@ description: A blog about exploring by train and on foot, especially in Málaga 
 
 {% for post in site.posts %}
   <p><a href="{{ post.url }}">{{ post.title }}</a><br>
-  {{ post.date | date_to_string }}
-  {{ post.excerpt}} </p>
+  {{ post.date | date_to_string }}</p>
 {% endfor %}
