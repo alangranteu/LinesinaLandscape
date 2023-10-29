@@ -29,6 +29,7 @@ p.headername
 @media only screen and (max-width: 720px) {
     article {
       border: none;
-      padding: 0,
+      padding: 0;
     }
 }
+
