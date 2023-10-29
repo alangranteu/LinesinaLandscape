@@ -1,9 +1,10 @@
-/* centre images and iframes */
+/* centre images and iframes 
 img, iframe {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+*/
 
 /* site name in header (not set up as a heading so needs style) */
 p.headername
