@@ -13,8 +13,7 @@ This is a personal project to visit and photograph all the train and metro stati
 - Málaga María Zambrano
 - Álora 
 - Las Mellizas
-- [El Chorro - Caminito del Rey](el chorro.md)
-- [El Chorro - Caminito del Rey](\el chorro.md)
+- [El Chorro - Caminito del Rey](_posts\2023-10-29-el-chorro.md)
 - Bobadilla
 - Antequera-Santa Ana
 - Campillos
