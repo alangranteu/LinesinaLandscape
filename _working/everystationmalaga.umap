@@ -1,0 +1,134 @@
+{
+  "type": "umap",
+  "uri": "https://umap.openstreetmap.fr/en/map/everystationmalaga_943076?download#10/36.8269/-4.8038",
+  "properties": {
+    "easing": false,
+    "embedControl": true,
+    "fullscreenControl": true,
+    "searchControl": true,
+    "datalayersControl": true,
+    "zoomControl": true,
+    "permanentCreditBackground": true,
+    "longCredit": "",
+    "showLabel": null,
+    "slideshow": {},
+    "captionMenus": true,
+    "captionBar": false,
+    "popupContentTemplate": "# {name}\nServices: {services}\n{blogentry}",
+    "limitBounds": {
+      "east": -0.318604,
+      "west": -7.734375,
+      "north": 38.500893,
+      "south": 35.697456
+    },
+    "overlay": {},
+    "tilelayer": {
+      "tms": false,
+      "name": "OSM Transport (Thunderforest)",
+      "maxZoom": 18,
+      "minZoom": 0,
+      "attribution": "Tiles © [[http://www.thunderforest.com/outdoors/|Thunderforest]] / map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL",
+      "url_template": "https://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}.png?apikey=e6b144cfc47a48fd928dad578eb026a6"
+    },
+    "licence": {
+      "url": "",
+      "name": "No licence set"
+    },
+    "description": "Train and Metro stations in the province of Malaga\n\nWhite train icons are stations with an article on the EveryStationMalaga blog. Black icons are stations without a blog entry (so far).\n",
+    "name": "EveryStationMalaga",
+    "onLoadPanel": "caption",
+    "displayPopupFooter": false,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 10
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.803771972656251,
+      36.8268747428773
+    ]
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "inCaption": true,
+        "browsable": true,
+        "editMode": "advanced",
+        "remoteData": {
+          "format": "csv",
+          "url": "https://slowtrainsfastwalks.com/assets/geodata/layer-metro.csv"
+        },
+        "description": "Metro Málaga stations",
+        "name": "Metro Málaga",
+        "iconClass": "Drop",
+        "type": "Default",
+        "cluster": {},
+        "permissions": {
+          "edit_status": 0
+        },
+        "popupContentTemplate": "",
+        "iconUrl": "/uploads/pictogram/{iconname}.png",
+        "color": "Olive",
+        "id": 2980428
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "inCaption": true,
+        "browsable": true,
+        "editMode": "advanced",
+        "remoteData": {
+          "format": "csv",
+          "url": "https://slowtrainsfastwalks.com/assets/geodata/layer-cercanias.csv"
+        },
+        "description": "Train stations with only Cercanías (commuter) services",
+        "name": "Cercanías",
+        "iconClass": "Drop",
+        "type": "Default",
+        "cluster": {},
+        "permissions": {
+          "edit_status": 0
+        },
+        "popupContentTemplate": "",
+        "iconUrl": "/uploads/pictogram/{iconname}.png",
+        "color": "DarkOrchid",
+        "id": 2980387
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_umap_options": {
+        "displayOnLoad": true,
+        "inCaption": true,
+        "browsable": true,
+        "editMode": "advanced",
+        "remoteData": {
+          "format": "csv",
+          "url": "https://slowtrainsfastwalks.com/assets/geodata/layer-longdistance.csv"
+        },
+        "description": "Train stations with medium distance and longer services: \"Proximidad\", \"Media Distancia\" (MD), InterCity, and high speed services (\"AVE\", \"Avlo\", \"AVANT\", \"Iryo\")",
+        "name": "Long and medium distance",
+        "id": 2891459,
+        "iconClass": "Drop",
+        "type": "Default",
+        "cluster": {},
+        "permissions": {
+          "edit_status": 0
+        },
+        "popupContentTemplate": "",
+        "iconUrl": "/uploads/pictogram/{iconname}.png",
+        "color": "FireBrick"
+      }
+    }
+  ]
+}
