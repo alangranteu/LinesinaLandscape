@@ -3,7 +3,7 @@ title: Every Station Málaga
 description: Photo essays on every train and metro station in Málaga province
 ---
 
-#  Every Station Málaga
+#  Every Station Málaga v2
 
 This is a personal project to visit and photograph all the train and metro stations in the provice of Málaga.
 
@@ -13,7 +13,7 @@ This is a personal project to visit and photograph all the train and metro stati
 - Málaga María Zambrano
 - Álora 
 - Las Mellizas
-- [El Chorro - Caminito del Rey](\el chorro.md)
+- [El Chorro - Caminito del Rey](every-station-malaga\el chorro.md)
 - Bobadilla
 - Antequera-Santa Ana
 - Campillos
