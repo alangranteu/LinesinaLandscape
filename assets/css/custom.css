@@ -7,7 +7,7 @@ img, iframe {
 */
 
 body > header {
-    padding-bottom: 0.5rem; /* a less padding than the original  */
+    padding-bottom: 0.5rem; /* less padding than the original  */
 }
 
 /* site name in header (not set up as a heading so needs style) */
@@ -17,7 +17,7 @@ p.headername
     margin: 1rem auto;
     overflow-wrap: break-word;
     line-height: 1.1;
-    font-size: 2 rem;
+    font-size: 3 rem;
     font-weight: bold;
 }
 
