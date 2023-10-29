@@ -15,8 +15,7 @@ baseurl: ""
 feed:
   posts_limit: 20
 
-
-permalink: /:title/
+permalink: /:categories/:title/
 
 exclude:
   - Gemfile
