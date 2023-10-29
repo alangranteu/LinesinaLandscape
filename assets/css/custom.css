@@ -6,6 +6,10 @@ img, iframe {
 }
 */
 
+body > header {
+    padding-bottom: 1rem; /* a bit less padding than the original  */
+}
+
 /* site name in header (not set up as a heading so needs style) */
 p.headername
 {
