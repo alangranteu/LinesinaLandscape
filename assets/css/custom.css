@@ -1,8 +1,14 @@
 /* centre images and iframes within figure tags */ 
 figure img, figure iframe {
     display: block;
-    margin: 1rem auto 1rem auto;
+    margin: 0 auto 0 auto;
 }
+
+/* apply top and bottom margin to figure, not the img or iframe inside it */
+figure {
+     margin-top: 1rem;
+     margin-bottom: 1rem;
+}  
 
 body > header {
     padding-bottom: 0.5rem; /* less padding than the original  */
@@ -19,3 +25,10 @@ p.headername
     font-weight: bold;
 }
 
+/* remove border and padding from articles on mobile */
+@media only screen and (max-width: 720px) {
+    article {
+      border: none;
+      padding: 0,
+    }
+}
