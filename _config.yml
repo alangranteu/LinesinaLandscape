@@ -1,7 +1,8 @@
 plugins:
   - jekyll-feed
-  - jekyll-sitemapç
+  - jekyll-sitemap
   - jekyll-relative-links
+  - jekyll-seo-tag
 
 # SEO Stuff
 name: Slow Trains Fast Walks (and vice versa)
