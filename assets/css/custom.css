@@ -1,14 +1,15 @@
-/* centre images and iframes within figure tags */ 
-figure img, figure iframe {
+/* centre images and iframes */ 
+img, iframe {
     display: block;
-    margin: 0 auto 0 auto;
+    margin: 1rem auto 1rem auto;
 }
 
-/* apply top and bottom margin to figure, not the img or iframe inside it */
-figure {
-     margin-top: 1rem;
-     margin-bottom: 1rem;
-}  
+/* centre link immediately after iframe (for umap embeds) */
+iframe + a {
+    text-align: center;
+    font-size: 0.8rem;
+    margin: 1rem auto 1rem auto;
+}
 
 body > header {
     padding-bottom: 0.5rem; /* less padding than the original  */
