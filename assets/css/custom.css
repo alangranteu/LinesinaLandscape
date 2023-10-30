@@ -4,8 +4,8 @@ img, iframe {
     margin: 1rem auto 1rem auto;
 }
 
-/* centre link immediately after iframe (for umap embeds) */
-iframe + a {
+/* centre link immediately after iframe (for umap embeds, openstreetmap embeds) */
+iframe + ap, iframe + small {
     text-align: center;
     font-size: 0.8rem;
     margin: 1rem auto 1rem auto;
