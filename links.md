@@ -8,12 +8,12 @@ description: Links to blogs and other sites that inspired this one
 These are a few of the blogs and websites that have in some way influenced me in recent years.
 
 ## Málaga
-- [Daniel Capilla](https://dcapillae.wordpress.com/ "Daniel Capilla's Blog") is a prolific contributor to OpenStreetMap in Málaga (see below for more on OpenStreetMap). I especially like his [Map of Monuments and Public Art in Málaga]https://umap.openstreetmap.fr/es/map/monumentos-conmemorativos-y-arte-publico-de-malaga_855088#13/36.7152/-4.3832 "Map of Monuments and Public Art in Málaga"), both as a guide to discovering the city and as an example of what can be done with OpenStreetMap data and the uMap tool.
+- [Daniel Capilla](https://dcapillae.wordpress.com/ "Daniel Capilla's Blog") is a prolific contributor to OpenStreetMap in Málaga (see below for more on OpenStreetMap). I especially like his [Map of Monuments and Public Art in Málaga](https://umap.openstreetmap.fr/es/map/monumentos-conmemorativos-y-arte-publico-de-malaga_855088 "Map of Monuments and Public Art in Málaga"), both as a guide to discovering the city and as an example of what can be done with OpenStreetMap data and the uMap tool.
 - [Las Rutas de Sendericu](https://sendericu.blogspot.com/ "Las Rutas de Sendericu") is a blog about hiking, mainly in Málaga province.
 
 ## Ireland
 - [Tough Soles](https://toughsoles.ie/ "Tough Soles") describes the epic hiking adventures of Ellie and Carl, covering all the National Waymarked Trail of Ireland and much more.
-- Wild Irish Walkds
+- Wild Irish Walks
 - Hikelines
 
 ## Trains
