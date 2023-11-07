@@ -3,7 +3,7 @@ title: Every Station Málaga
 description: Photo essays on every train and metro station in Málaga province
 ---
 
-#  Every Station Málaga v6
+#  Every Station Málaga v7
 
 This is a personal project to visit and photograph all the train and metro stations in the provice of Málaga.
 
@@ -15,6 +15,7 @@ This is a personal project to visit and photograph all the train and metro stati
 - Álora 
 - Las Mellizas
 - [El Chorro - Caminito del Rey](\el-chorro)
+- [El Chorro - Caminito del Rey](_posts/2023-10-29-el-chorro.md)
 - Bobadilla
 - Antequera-Santa Ana
 - Campillos
