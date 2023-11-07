@@ -1,3 +1,6 @@
+---
+description: test first post
+---
 # A test blog post
 
 [Link to another post in same folder](2023-10-29-el-chorro.md)
