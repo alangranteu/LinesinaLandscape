@@ -13,3 +13,5 @@ description: A blog about exploring by train and on foot, especially in Málaga 
   ![test image]({{ post.image}})
 </p>
 {% endfor %}
+
+![test alt text](empty.jpg)
