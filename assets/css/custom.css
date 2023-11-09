@@ -1,11 +1,11 @@
-/* centre images and iframes */ 
-img, iframe {
+/* centre images and iframes in articles */ 
+article img, article iframe {
     display: block;
     margin: 1rem auto 1rem auto;
 }
 
 /* centre link immediately after iframe (for umap embeds, openstreetmap embeds) */
-iframe + p, iframe + small {
+article iframe + p, article iframe + small {
     text-align: center;
     font-size: 1rem;
 }
@@ -33,3 +33,13 @@ p.headername
     }
 }
 
+/* style each entry in blog list */
+div.blogentry
+{
+    border-bottom: 1px;
+}
+
+div.blogentry img
+{
+    max-width: 400px;
+}

@@ -7,11 +7,14 @@ description: A blog about exploring by train and on foot, especially in Málaga 
 
 {% for post in site.posts %}
  
+ <div class="blogentry">
  <a href="{{ post.url }}">{{ post.title }}</a>
  {{ post.date | date_to_string }}
  {{ post.description}}
- ![test image]({{ post.image}})
+ <a href="{{ post.url }}" <img src= "{{ post.image}}" alt="{{ post.image.alt}}"/></a>
+
+</div>
 
 {% endfor %}
 
-![test alt text](empty.jpg)
+
