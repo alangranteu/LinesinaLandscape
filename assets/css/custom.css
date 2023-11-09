@@ -33,6 +33,12 @@ p.headername
     }
 }
 
+/* post date */
+p.postdate {
+    font-size: 0.8rem;
+    font-style: italic;
+} 
+
 /* style each entry in blog list */
 div.blogentry
 {
@@ -42,6 +48,6 @@ div.blogentry
 
 div.blogentry img
 {
-    max-width: 100px;
+   /* max-width: 100px; */
     width: 50%;
 }
