@@ -36,7 +36,8 @@ p.headername
 /* style each entry in blog list */
 div.blogentry
 {
-    border-bottom: 1px;
+    border-bottom: 1px dotted;
+    margin-bottom: 0.5rem;
 }
 
 div.blogentry img
