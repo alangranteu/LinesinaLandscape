@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-
-<p>{{ page.date | date_to_string }}</p>
-
 <article>
+<p>
+Published {{ page.date | date_to_string }}
+Updated {{ last_modified_at.date | date_to_string }}
+</p>
 {{ content }}
 </article>
