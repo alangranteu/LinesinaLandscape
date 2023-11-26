@@ -15,7 +15,7 @@ This is a personal project to visit and photograph all the train and metro stati
 - [Álora](_posts/2023-11-10-station-alora.md)
 - [Test](testpages/testpage.md)
 - Las Mellizas
-- [El Chorro - Caminito del Rey](_posts/2023-11-08-el-chorro.md)
+- [El Chorro - Caminito del Rey](testpages/el-chorro.md)
 - Bobadilla
 - Antequera-Santa Ana
 - Campillos
