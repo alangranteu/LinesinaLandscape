@@ -1,5 +1,5 @@
 ---
-layout: article_page
+layout: article
 description: Photo essay about El Chorro train station
 image:
   path: https://live.staticflickr.com/65535/53187914237_f912f386c1_c.jpg
