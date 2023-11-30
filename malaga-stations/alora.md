@@ -1,12 +1,11 @@
 ---
-description: Photo essay about El Chorro train station
-date: 2023-11-06
-last_modified_at: 2023-11-08 
+layout: article
+description: Photo essay about Álora train station in Málaga Province, Spain
 image:
   path: https://live.staticflickr.com/65535/53187914237_f912f386c1_c.jpg
   alt: "A landscape"
 ---
-# El Chorro - Caminito del Rey
+# Estación de Álora
 
 This is some intro text. 
 

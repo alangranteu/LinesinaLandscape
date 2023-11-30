@@ -12,9 +12,9 @@ This is a personal project to visit and photograph all the train and metro stati
 
 - Málaga Centro - Alameda
 - Málaga María Zambrano
-- [Álora](_posts/2023-11-10-station-alora.md)
+- [Álora](malaga-stations/alora.md)
 - Las Mellizas
-- [El Chorro - Caminito del Rey](testpages/el-chorro.md)
+- [El Chorro - Caminito del Rey](malaga-stations/el-chorro.md)
 - Bobadilla
 - Antequera-Santa Ana
 - Campillos
