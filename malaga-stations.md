@@ -1,9 +1,9 @@
 ---
-title: Every Station Málaga
+title: Málaga Stations
 description: Photo essays on every train and metro station in Málaga province
 ---
 
-#  Every Station Málaga v8
+#  Málaga Stations
 
 This is a personal project to visit and photograph all the train and metro stations in the provice of Málaga.
 

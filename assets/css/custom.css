@@ -14,6 +14,11 @@ body > header {
     padding-bottom: 0.5rem; /* less padding than the original  */
 }
 
+body > footer {
+    padding-top: 1rem; /* less padding than the original  */
+    margin-top: 2em;
+}
+
 /* site name in header (not set up as a heading so needs style) */
 p.headername
 {
