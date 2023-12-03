@@ -20,9 +20,10 @@ These are a few of the blogs and websites that have in some way influenced me in
 
 ## Trains
 - [Jon Worth](https://jonworth.eu/ "Jon Worth - independent railway commentator") writes extensively on European Rail Travel, especially the less-than-stellar state of cross border connections.
+- [The Main in Seat Sixty-One](https://www.seat61.com/)
 - [Tube Mapper](https://tubemapper.com/ "Tube Mapper - Photography around London Underground") is one photographer's project documenting the London Underground. I have tried to take this as inspiration, especially when photographing unspectacular stations in the Málaga suburbs.  
 - Every Sydney Station (add link)
-- [Geotren](https://www.geotren.es/blog/ 
+- [Geotren](https://www.geotren.es/blog/) 
 
 ## Miscellaneous
 - [The Online Photographer](https://theonlinephotographer.typepad.com/the_online_photographer/blog_index.html)
