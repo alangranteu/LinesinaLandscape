@@ -1,5 +1,5 @@
 ---
-title: Slow Trains Fast Walks (and vice versa) - Home
+title: Slow Trains, Fast Walks, and vice versa - Home
 description: A personal website about exploring by train and on foot, especially in Málaga province
 ---
 
