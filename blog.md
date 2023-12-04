@@ -1,5 +1,5 @@
 ---
-title: Blog - Slow Trains Fast Walks (and vice versa) - Blog
+title: Slow Trains, Fast Walk, and vice versa - Blog
 description: A blog about exploring by train and on foot, especially in Málaga province
 ---
 
