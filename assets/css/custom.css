@@ -26,9 +26,7 @@ body > footer p{
 /* site name in header (not set up as a heading so needs style) */
 p.headername
 {
-    margin: 1rem auto;
     overflow-wrap: break-word;
-    line-height: 1.1;
     font-size: 1.5rem;
     font-weight: bold;
     font-style: italic;
