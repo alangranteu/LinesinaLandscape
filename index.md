@@ -3,7 +3,7 @@ title: Slow Trains Fast Walks (and vice versa) - Home
 description: A personal website about exploring by train and on foot, especially in Málaga province
 ---
 
-# Welcome to my website
+# Slow Trains, Fast Walks, and vice versa
 
 Hi there, I'm Alan and this is my personal home page. In more than a quarter century of online life, I have accumulated a collection of things that I like to think of as "projects": in reality a jumble of disorganised photo galleries, semi-abandoned pages, half-baked ideas, and things that will be really, really great just as soon as I retire from work and have time to work on them. On this site I try to put some kind of shape on all this, as if there was some kind of grand plan all along.
 
