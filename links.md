@@ -1,5 +1,5 @@
 ---
-title: Slow Trains Fast Walks (and vice versa) - Links
+title: Slow Trains, Fast Walks, and vice versa - Links
 description: Links to blogs and other sites that inspired this one
 ---
 
