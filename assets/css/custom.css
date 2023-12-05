@@ -30,6 +30,7 @@ p.headername
     font-size: 1.5rem;
     font-weight: bold;
     font-style: italic;
+    margin: 0 auto;
 }
 
 /* remove border and padding from articles on mobile */
