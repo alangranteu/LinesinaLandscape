@@ -10,6 +10,10 @@ This is a personal project to visit and photograph all the train and metro stati
 
 ## Stations with long- and medium- distance services
 
+Add some text here
+
+<details markdown="1">
+<summary>Station List</summary>
 - Málaga Centro - Alameda
 - Málaga María Zambrano
 - [Álora](malaga-stations/alora.md)
@@ -26,6 +30,7 @@ This is a personal project to visit and photograph all the train and metro stati
 - Cortes de la Frontera
 - Gaucin
 - Antequera AV
+</details>
 
 ## Stations with local (Cercanías) services only
 
