@@ -6,7 +6,7 @@
     {% elsif page.url != '/' and page.url contains link.url %} 
       {% assign linkclass = 'current' %} 
     {% endif %}
-    <a href="{{ item.link }}" class="{{ class }}">{{ item.name }}</a>
+    <a href="{{ item.link }}" class="{{ linkclass }}">{{ item.name }}</a>
   {% endfor %}
 </nav>
 
