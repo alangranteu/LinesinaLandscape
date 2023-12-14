@@ -3,7 +3,7 @@
     {% assign linkclass = nil %}
     {% if page.url == item.link %} 
       {% assign linkclass = 'current' %} 
-    {% elsif page.url != '/' and page.url contains item.link %} 
+    {% elsif item.link != '/' and page.url contains item.link %} 
       {% assign linkclass = 'current' %} 
     {% endif %}
     <a href="{{ item.link }}" class="{{ linkclass }}">{{ item.name }}</a>
