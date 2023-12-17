@@ -17,6 +17,7 @@ These are a few of the blogs and websites that have in some way influenced me in
 - [Tough Soles](https://toughsoles.ie/ "Tough Soles") describes the epic hiking adventures of Ellie and Carl, covering all the National Waymarked Trail of Ireland and much more.
 - [Wild Irish Walks](https://wildirishwalks.ie/)
 - [Hikelines](https://www.hikelines.com/)
+- [Our Little Hiker](https://www.ourlittlehiker.com/) 
 
 ## Trains
 - [Jon Worth](https://jonworth.eu/ "Jon Worth - independent railway commentator") writes extensively on European Rail Travel, especially the less-than-stellar state of cross border connections.
