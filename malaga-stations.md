@@ -47,7 +47,7 @@ Add some text here
 - El Pinillo
 - Benalmadena - Arroyo de la Miel
 - Torremuelle
-- Carvajal
+- [Carvajal](malaga-stations/carvajal/index.md)
 - Torreblanca
 - Los Boliches
 - Fuengirola
