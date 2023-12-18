@@ -16,7 +16,7 @@ body > header {
 
 body > footer {
     padding-top: 1rem; /* less padding than the original  */
-    margin-top: 2rem;
+    margin-top: 1rem;
 }
 
 body > footer p{
@@ -27,10 +27,11 @@ body > footer p{
 p.headername
 {
     overflow-wrap: break-word;
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: bold;
     font-style: italic;
     margin: 0 auto;
+    padding: 0;
 }
 
 /* remove border and padding from articles on mobile */
