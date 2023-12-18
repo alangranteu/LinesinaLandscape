@@ -14,6 +14,6 @@ Intro.
 
 ## Walks in Málaga Province, Spain
 
-- etc
+- Málaga to Rincon de la Victoria
 - etc
 
