@@ -23,6 +23,10 @@ body > footer p{
     margin: 0.5rem;
 }
 
+body > main {
+    padding-top: 0.5rem;
+}
+
 /* site name in header (not set up as a heading so needs style) */
 p.headername
 {
@@ -32,6 +36,10 @@ p.headername
     font-style: italic;
     margin: 0 auto;
     padding: 0;
+}
+
+header > nav a {
+    margin-bottom: 0.5rem;
 }
 
 /* remove border and padding from articles on mobile */
