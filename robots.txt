@@ -1,0 +1,4 @@
+Sitemap: https://balkanology.com/sitemap.xml
+User-agent: *
+Allow: /
+
