@@ -7,18 +7,15 @@ description: Photo essays on every train and metro station in Málaga province
 
 This is a personal project to visit and photograph all the train and metro stations in the provice of Málaga.
 
-
 ## Stations with long- and medium- distance services
 
 Add some text here
 
-<details markdown="1">
-<summary>Station List</summary>
 - Málaga Centro - Alameda
 - Málaga María Zambrano
-- [Álora](malaga-stations/alora.md)
+- [Álora](malaga-stations//posts/02-01-2024-alora.md)
 - Las Mellizas
-- [El Chorro - Caminito del Rey](malaga-stations/el-chorro.md)
+- [El Chorro - Caminito del Rey](malaga-stations/posts/05-02-2024-el-chorro.md)
 - Bobadilla
 - Antequera-Santa Ana
 - Campillos
@@ -30,7 +27,6 @@ Add some text here
 - Cortes de la Frontera
 - Gaucin
 - Antequera AV
-</details>
 
 ## Stations with local (Cercanías) services only
 
@@ -47,7 +43,7 @@ Add some text here
 - El Pinillo
 - Benalmadena - Arroyo de la Miel
 - Torremuelle
-- [Carvajal](malaga-stations/carvajal/index.md)
+- [Carvajal]((malaga-stations/posts/03-01-2024-carvajal.md))
 - Torreblanca
 - Los Boliches
 - Fuengirola

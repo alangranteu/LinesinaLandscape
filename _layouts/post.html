@@ -3,7 +3,11 @@ layout: default
 ---
 <article>
 <p class="postdate">
-Published {{ page.date | date_to_string }}
+Published {{ page.date | date_to_long_string }}
+{% if page.updated %}
+  <br>
+  Last updated {{ page.updated | date_to_long_string }}
+{% endif %} 
 </p>
 {{ content }}
 </article>
