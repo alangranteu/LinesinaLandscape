@@ -10,8 +10,8 @@ layout: default
  
  <div class="blogentry">
  
-   <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-   <p>
+   <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+   <p class="postdate">
    Published {{ post.date | date_to_long_string }} 
    {% if post.last_modified_at %}
      Last updated {{ page.last_modified_at | date_to_long_string }} 
