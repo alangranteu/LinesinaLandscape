@@ -69,7 +69,8 @@ p.postdate {
 /* style each entry in blog list */
 div.blogentry
 {
-    border-bottom: 1px dotted;
+    border: 1px dotted;
+    padding: 0.5rem;
     margin-bottom: 0.5rem;
 }
 
