@@ -13,9 +13,9 @@ Add some text here
 
 - Málaga Centro - Alameda
 - Málaga María Zambrano
-- [Álora](malaga-stations//posts/02-01-2024-alora.md)
+- [Álora](malaga-stations/-posts/2024-01-02-alora.md)
 - Las Mellizas
-- [El Chorro - Caminito del Rey](malaga-stations/posts/05-02-2024-el-chorro.md)
+- [El Chorro - Caminito del Rey](malaga-stations/_posts/2024-01-04-el-chorro.md)
 - Bobadilla
 - Antequera-Santa Ana
 - Campillos
@@ -43,7 +43,7 @@ Add some text here
 - El Pinillo
 - Benalmadena - Arroyo de la Miel
 - Torremuelle
-- [Carvajal]((malaga-stations/posts/03-01-2024-carvajal.md))
+- [Carvajal]((malaga-stations/_posts/2024-01-03-carvajal.md))
 - Torreblanca
 - Los Boliches
 - Fuengirola
