@@ -14,7 +14,7 @@ layout: default
    <p class="postdate">
    Published {{ post.date | date_to_long_string }} 
    {% if post.last_modified_at %}
-     Last updated {{ page.last_modified_at | date_to_long_string }} 
+     Last updated {{ post.last_modified_at | date_to_long_string }} 
    {% endif %}
    </p>
    <p>{{ post.description}}</p>
