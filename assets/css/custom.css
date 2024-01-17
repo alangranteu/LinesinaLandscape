@@ -71,6 +71,8 @@ div.blogentry
 {
     border: 1px solid var(--border);
     border-radius: var(--standard-border-radius);
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 div.blogentry h5, div.blogentry p {
