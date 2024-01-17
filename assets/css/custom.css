@@ -19,8 +19,13 @@ body > footer {
     margin-top: 1rem;
 }
 
-body > footer p{
-    margin: 0.5rem;
+body > footer p {
+    margin: 0.25rem;
+}
+
+body > footer p img {
+    vertical-align: middle;
+    padding-right: 0.5rem;
 }
 
 body > main {
