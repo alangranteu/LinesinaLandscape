@@ -3,7 +3,7 @@ title: Slow Trains, Fast Walks, and vice versa - Links
 description: Links to blogs and other sites that inspired this one
 ---
 
-# Links (or what we used to call a blogroll..)
+# Links / Blogroll
 
 These are a few of the blogs and websites that have in some way influenced me in recent years.
 
