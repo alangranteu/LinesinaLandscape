@@ -1,10 +1,13 @@
 ---
-description: Photo essay about Carvajal train station in Málaga Province, Spain
+layout: article
+date: 2024-01-02
+description: Photo essay about Álora train station in Málaga Province, Spain
+last_modified_at: 2024-01-16
 image:
   path: https://live.staticflickr.com/65535/53187914237_f912f386c1_c.jpg
   alt: "A landscape"
 ---
-# Estación de Carvajal 
+# Estación de Álora
 
 This is some intro text. 
 
