@@ -6,7 +6,7 @@ image:
   path: https://live.staticflickr.com/65535/53187914237_f912f386c1_c.jpg
   alt: "A landscape"
 ---
-# El Chorro - Caminito del Rey
+# Málaga Stations: El Chorro - Caminito del Rey
 
 This is some intro text. 
 

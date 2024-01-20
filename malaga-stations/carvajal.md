@@ -6,7 +6,7 @@ image:
   path: https://live.staticflickr.com/65535/53187914237_f912f386c1_c.jpg
   alt: "A landscape"
 ---
-# Estación de Carvajal 
+# Málaga Stations: Carvajal 
 
 This is some intro text. 
 

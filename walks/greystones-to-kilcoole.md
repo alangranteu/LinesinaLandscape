@@ -1,6 +1,5 @@
 ---
 layout: article
-date: 2024-01-01
 description: A walk along the coast between Greystones and Kilcoole train stations
 image:
   path: https://live.staticflickr.com/65535/53187914237_f912f386c1_c.jpg

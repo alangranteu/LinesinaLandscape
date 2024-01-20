@@ -7,7 +7,7 @@ image:
   path: https://live.staticflickr.com/65535/53187914237_f912f386c1_c.jpg
   alt: "A landscape"
 ---
-# Estación de Álora
+# Málaga Stations: Álora
 
 This is some intro text. 
 
