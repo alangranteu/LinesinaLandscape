@@ -12,9 +12,11 @@ layout: default
  
    <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
    <p class="postdate">
-   {{ post.date | date_to_long_string }} 
-   {% if post.last_modified_at %}
-     &nbsp;(updated {{ post.last_modified_at | date_to_long_string }}) 
+   {% if post.date %}
+     {{ post.date | date_to_string }} 
+     {% if post.last_modified_at %}
+       &nbsp;(updated {{ post.last_modified_at | date_to_string }}) 
+     {% endif %}
    {% endif %}
    </p>
    <p>{{ post.description}}</p>

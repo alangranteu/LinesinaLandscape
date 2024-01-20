@@ -4,12 +4,11 @@ layout: default
 <article>
 <p class="postdate">
 {% if page.date %}
-  Published {{ page.date | date_to_long_string }}
+  {{ page.date | date_to_string }} 
   {% if page.last_modified_at %}
-    <br>
-    Updated {{ page.last_modified_at | date_to_long_string }}
+    &nbsp;(updated {{ page.last_modified_at | date_to_string }}) 
   {% endif %}
-{% endif %}   
+{% endif %}
 </p>
 {{ content }}
 </article>
