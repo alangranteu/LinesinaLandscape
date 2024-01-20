@@ -19,7 +19,7 @@ body > header {
 }
 
 body > footer {
-    padding-top: 1rem; /* less padding than the original  */
+    padding: 1rem 0rem 1rem 0rem; /* less padding than the original  */
     margin-top: 1rem;
     font-size: 1rem;
 }
