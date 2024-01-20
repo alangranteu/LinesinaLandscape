@@ -1,7 +1,7 @@
 /* centre images and iframes in articles */ 
 article img, article iframe {
     display: block;
-    margin: 1rem auto 1rem auto;
+    margin: 0.5rem auto 0.5rem auto;
 }
 
 /* centre link immediately after iframe (for umap embeds, openstreetmap embeds) */
@@ -21,9 +21,11 @@ body > footer {
 }
 
 body > footer p {
-    margin: 0.25rem;
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+    padding-left: 0rem;
+    padding-right: 0rem;
 }
-
 
 body > footer p img {
     vertical-align: middle;
