@@ -10,6 +10,10 @@ article iframe + p, article iframe + small {
     font-size: 1rem;
 }
 
+article h1 {
+    margin-top: 1rem;
+}
+
 body > header {
     padding-bottom: 0.5rem; /* less padding than the original  */
 }
