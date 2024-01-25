@@ -10,6 +10,7 @@ Intro.
 ## Walks in Ireland 
 
 - [Greystones to Kilcoole](walks/greystones-to-kilcoole.md)
+- [Carrick-on-Suir to Clonmel](walks/carrick-on-suir-to-clonmel.md)
 - etc
 
 ## Walks in Málaga Province, Spain
