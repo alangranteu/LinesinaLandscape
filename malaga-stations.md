@@ -5,7 +5,7 @@ description: Photo essays on every train and metro station in Málaga province
 
 #  Málaga Stations
 
-This is a personal project to visit and photograph all the train and metro stations in the provice of Málaga.
+This is a personal project to visit and photograph all the train and metro stations in the province of Málaga.
 
 ## Stations with long- and medium- distance services
 
