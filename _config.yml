@@ -18,8 +18,15 @@ baseurl: ""
 feed:
   posts_limit: 20
 
-permalink: /:categories/:title/
+permalink: /:title/
 
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      permalink: /blog/:title/
+            
 exclude:
   - Gemfile
   - Gemfile.lock
