@@ -1,3 +1,10 @@
 ---
 ---
-# Foldertest
+# Image link test
+
+1
+![](assets/images/ES20230212_001_alora.jpg)
+2
+![](/assets/images/ES20230212_001_alora.jpg)
+3
+![](../assets/images/ES20230212_001_alora.jpg)
