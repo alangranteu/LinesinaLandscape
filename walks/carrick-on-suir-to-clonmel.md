@@ -1,9 +1,8 @@
 ---
-layout: article
 description: A walking route along the River Suir from Carrick-on-Suir to Clonmel
 image:
   path: https://live.staticflickr.com/65535/52672754439_f84a1b42d5_z.jpg 
-  alt: "Wooden steps descending into a river"
+  alt: "Wooden steps descending into the river Suir"
 ---
 
 # Carrick-on-Suir to Clonmel

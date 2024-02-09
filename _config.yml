@@ -24,13 +24,23 @@ collections:
   malaga-stations:
     output: true
     permalink: /:collection/:title/
+  walks:
+    output: true
+    permalink: /:collection/:title/
 
 defaults:
-  -
-    scope:
+  - scope:
       type: "posts"
     values:
       permalink: /blog/:title/
+  - scope:
+      type: "malaga-stations"
+    values:
+      layout: station
+  - scope:
+      type: "walks"
+    values:
+      layout: walk
             
 exclude:
   - Gemfile
