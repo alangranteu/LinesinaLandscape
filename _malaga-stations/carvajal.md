@@ -10,7 +10,7 @@ lon: -4.5938788
 
 This is some intro text. 
 
-[test image](../assets/images/20240209-GR340-information-board-alora.jpg)
+![test image](../assets/images/20240209-GR340-information-board-alora.jpg)
 
 This is some closing text.
 
