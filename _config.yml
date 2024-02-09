@@ -5,8 +5,8 @@ plugins:
   - jekyll-seo-tag
 
 # SEO Stuff
-name: Slow Trains, Fast Walks, and vice versa
-title: Slow Trains, Fast Walks, and vice versa)
+name: Lines in a Landscape
+title: Lines in a Landscape
 author: Alan Grant
 description: A personal site and blog about train travel and hiking, mainly in the province of Málaga
 lang: en
@@ -19,6 +19,11 @@ feed:
   posts_limit: 20
 
 permalink: /:title/
+
+collections:
+  malaga-stations:
+    output: true
+    permalink: /:collection/:title/
 
 defaults:
   -
