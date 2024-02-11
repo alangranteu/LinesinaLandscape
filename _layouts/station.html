@@ -4,6 +4,27 @@ layout: default
 <article>
 {{ content }}
 
+{{ page.name }}
+{{ page.title }}
+{{ page.slug }}
+
+{{ layout.name }}
+{{ layout.title }}
+{{ layout.slug }}
+
+{{ site.name }}
+{{ site.title }}
+{{ site.slug }}
+
+{% for station in site.data.stationlist %}
+  <li>
+      {{ station}}
+      {{ station.name}}
+      {{ station.lat}}
+      {{ station.long}}
+  </li>
+{% endfor %}
+
 <h2>Locator map</h2>
 <iframe style="height: 300px; width: 100%" allowfullscreen 
 src="https://umap.openstreetmap.fr/en/map/everystationmalaga_943076?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#17/{{ page.lat }}/{{ page.lon }}"></iframe>
