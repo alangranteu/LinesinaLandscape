@@ -33,17 +33,16 @@ ss
   </li>
 {% endfor %}
 
+<br><br>
 second loop
 {{ site.data.stationlist | where:"slug", page.slug }}
 
-3rd loop
-{{ site.data.stationlist | find:"slug", page.slug }}
-
+<br>
 assign
-{% assign mystation = site.data.stationlist | find:"slug", page.slug %}
-mystation
-mystation.lat
+{% assign mystation = site.data.stationlist | where:"slug", page.slug % | first }
 
+<br>mystation
+<br>mystation.lat
 
 <h2>Locator map</h2>
 <iframe style="height: 300px; width: 100%" allowfullscreen 
