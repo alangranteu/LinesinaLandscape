@@ -39,10 +39,10 @@ second loop
 
 <br>
 assign
-{% assign mystation = site.data.stationlist | where:"slug", page.slug % | first }
+{% assign mystation = site.data.stationlist | where:"slug", page.slug % | first %}
 
-<br>mystation
-<br>mystation.lat
+<br>{{ mystation }}
+<br>{{ mystation.lat }}
 
 <h2>Locator map</h2>
 <iframe style="height: 300px; width: 100%" allowfullscreen 
