@@ -33,6 +33,18 @@ ss
   </li>
 {% endfor %}
 
+second loop
+{{ site.data.stationlist | where:"slug", page.slug }}
+
+3rd loop
+{{ site.data.stationlist | find:"slug", page.slug }}
+
+assign
+{% assign mystation = site.data.stationlist | find:"slug", page.slug %}
+mystation
+mystation.lat
+
+
 <h2>Locator map</h2>
 <iframe style="height: 300px; width: 100%" allowfullscreen 
 src="https://umap.openstreetmap.fr/en/map/everystationmalaga_943076?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#17/{{ page.lat }}/{{ page.lon }}"></iframe>
