@@ -28,8 +28,8 @@ ss
   <li>
       {{ station}}
       {{ station.name}}
-      {{ station.lat}}
-      {{ station.long}}
+      {{ station.LAT}}
+      {{ station.LONG}}
   </li>
 {% endfor %}
 
@@ -42,7 +42,9 @@ assign
 {% assign mystation = site.data.stationlist | where:"slug", page.slug % | first %}
 
 <br>{{ mystation }}
-<br>{{ mystation.lat }}
+<br>{{ mystation.name }}
+<br>{{ mystation.LAT }}
+<br>{{ mystation.LONG }}
 
 <h2>Locator map</h2>
 <iframe style="height: 300px; width: 100%" allowfullscreen 
