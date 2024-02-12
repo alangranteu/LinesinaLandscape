@@ -1,36 +1,36 @@
 slug,name,lat,lon,iconname,services,wikidata,metro,url
-pizarra,Pizarra,36.7643147,-4.7119965,rail-24-white,Cercanías C2,Q5846921,n,alangranteu.github.io/pizarra
-aljaima,Aljaima,36.7328998,-4.6647665,rail-24,Cercanías C2,Q5845653,n,alangranteu.github.io/aljaima
-cártama,Cártama,36.733858,-4.6085688,rail-24,Cercanías C2,Q5846106,n,alangranteu.github.io/cártama
-campanillas,Campanillas,36.7050855,-4.545545,rail-24,Cercanías C2,Q5845932,n,alangranteu.github.io/campanillas
-los-prados,Los Prados,36.6985145,-4.4783127,rail-24,Cercanías C2,Q5846635,n,alangranteu.github.io/los-prados
-victoria-kent,Victoria Kent,36.7009023,-4.4550529,rail-24,"Cercanías C1, Cercanías C2",Q8842201,n,alangranteu.github.io/victoria-kent
-guadalhorce,Guadalhorce,36.6925835,-4.4831135,rail-24,Cercanías C1,Q959331,n,alangranteu.github.io/guadalhorce
-aeropuerto,Aeropuerto,36.6777495,-4.4901616,rail-24,Cercanías C1,Q8779199,n,alangranteu.github.io/aeropuerto
-la-colina,La Colina,36.6421595,-4.4923719,rail-24,Cercanías C1,Q5846469,n,alangranteu.github.io/la-colina
-torremolinos,Torremolinos,36.62272,-4.49929,rail-24,Cercanías C1,Q5847350,n,alangranteu.github.io/torremolinos
-el-pinillo,El Pinillo,36.6098894,-4.5154405,rail-24,Cercanías C1,Q5846177,n,alangranteu.github.io/el-pinillo
-benalmadena,Benalmadena - Arroyo de la Miel,36.5990753,-4.5365181,rail-24,Cercanías C1,Q5845802,n,alangranteu.github.io/benalmadena
-torremuelle,Torremuelle,36.5822976,-4.5670844,rail-24,Cercanías C1,Q5847352,n,alangranteu.github.io/torremuelle
-carvajal,Carvajal,36.5703735,-4.5938788,rail-24,Cercanías C1,Q5845978,n,alangranteu.github.io/carvajal
-torreblanca,Torreblanca,36.564969,-4.6065701,rail-24,Cercanías C1,Q5672229,n,alangranteu.github.io/torreblanca
-los-boliches,Los Boliches,36.5546249,-4.6145872,rail-24,Cercanías C1,Q8840986,n,alangranteu.github.io/los-boliches
-fuengirola,Fuengirola,36.5418102,-4.623976,rail-24,Cercanías C1,Q11681648,n,alangranteu.github.io/fuengirola
-los-álamos,Los Álamos,36.6447488,-4.4855,rail-24,Cercanías C1,Q5846641,n,alangranteu.github.io/los-álamos
-montemar-alto,Montemar Alto,36.6136503,-4.5094951,rail-24,Cercanías C1,Q5846743,n,alangranteu.github.io/montemar-alto
-Málaga-centro-alameda,Málaga Centro - Alameda,36.7154274,-4.4265592,rail-24,"Cercaníás C1, Cercanías C2, Proximidad",Q604972,n,alangranteu.github.io/Málaga-centro-alameda
-málaga-maría-zambrano,Málaga María Zambrano,36.7116198,-4.4323605,rail-24,"AVE, AVANT, AVLO, Iryo, MD, Cercaníás C1, Cercanías C2, Proximidad",Q801214,n,alangranteu.github.io/málaga-maría-zambrano
-álora,Álora,36.8197098,-4.6993991,rail-24-white,"MD, Cercanías C2, Proximidad",Q8842737,n,alangranteu.github.io/álora
-las-mellizas,Las Mellizas,36.8732189,-4.7192019,rail-24,"MD, Proximidad",Q5846566,n,alangranteu.github.io/las-mellizas
-El-chorro,El Chorro-Caminito del Rey,36.9070732,-4.7591329,rail-24,"MD, Proximidad",Q5846154,n,alangranteu.github.io/El-chorro
-bobadilla,Bobadilla,37.0376401,-4.7279832,rail-24,MD,Q5845842,n,alangranteu.github.io/bobadilla
-antequera-santa-ana,Antequera-Santa Ana,37.0701682,-4.7197084,rail-24-white,"AVE, AVANT, AVLO, Iryo, InterCity, MD",Q3325592,n,alangranteu.github.io/antequera-santa-ana
-campillos,Campillos,37.0320313,-4.8635041,rail-24,MD,Q5845936,n,alangranteu.github.io/campillos
-almargen-cañete-la-real,Almargen - Cañete la Real,37.0009416,-5.0198943,rail-24,MD,Q5845663,n,alangranteu.github.io/almargen-cañete-la-real
-ronda,Ronda,36.7485914,-5.1619649,rail-24-white,"InterCity, MD",Q3394773,n,alangranteu.github.io/ronda
-arriate,Arriate,36.790954,-5.1405656,rail-24,MD,Q5845729,n,alangranteu.github.io/arriate
-benaojan-montejaque,Benaojan-Montejaque,36.7137087,-5.2461358,rail-24,MD,Q5845806,n,alangranteu.github.io/benaojan-montejaque
-jimera-de-líbar,Jimera de Líbar,36.660644,-5.2813402,rail-24,MD,Q5846427,n,alangranteu.github.io/jimera-de-líbar
-cortes-de-la-frontera,Cortes de la Frontera,36.5971871,-5.3325655,rail-24,MD,Q5846078,n,alangranteu.github.io/cortes-de-la-frontera
-gaucin,Gaucin,36.5402389,-5.3868218,rail-24,MD,Q5846286,n,alangranteu.github.io/gaucin
-antequera-av,Antequera AV,37.0295688,-4.5609187,rail-24,AVANT,Q2918304 ,n,alangranteu.github.io/antequera-av
+pizarra,Pizarra,36.7643147,-4.7119965,rail-24-white,Cercanías C2,Q5846921,n,https://alangranteu.github.io/pizarra
+aljaima,Aljaima,36.7328998,-4.6647665,rail-24,Cercanías C2,Q5845653,n,https://alangranteu.github.io/aljaima
+cártama,Cártama,36.733858,-4.6085688,rail-24,Cercanías C2,Q5846106,n,https://alangranteu.github.io/cártama
+campanillas,Campanillas,36.7050855,-4.545545,rail-24,Cercanías C2,Q5845932,n,https://alangranteu.github.io/campanillas
+los-prados,Los Prados,36.6985145,-4.4783127,rail-24,Cercanías C2,Q5846635,n,https://alangranteu.github.io/los-prados
+victoria-kent,Victoria Kent,36.7009023,-4.4550529,rail-24,"Cercanías C1, Cercanías C2",Q8842201,n,https://alangranteu.github.io/victoria-kent
+guadalhorce,Guadalhorce,36.6925835,-4.4831135,rail-24,Cercanías C1,Q959331,n,https://alangranteu.github.io/guadalhorce
+aeropuerto,Aeropuerto,36.6777495,-4.4901616,rail-24,Cercanías C1,Q8779199,n,https://alangranteu.github.io/aeropuerto
+la-colina,La Colina,36.6421595,-4.4923719,rail-24,Cercanías C1,Q5846469,n,https://alangranteu.github.io/la-colina
+torremolinos,Torremolinos,36.62272,-4.49929,rail-24,Cercanías C1,Q5847350,n,https://alangranteu.github.io/torremolinos
+el-pinillo,El Pinillo,36.6098894,-4.5154405,rail-24,Cercanías C1,Q5846177,n,https://alangranteu.github.io/el-pinillo
+benalmadena,Benalmadena - Arroyo de la Miel,36.5990753,-4.5365181,rail-24,Cercanías C1,Q5845802,n,https://alangranteu.github.io/benalmadena
+torremuelle,Torremuelle,36.5822976,-4.5670844,rail-24,Cercanías C1,Q5847352,n,https://alangranteu.github.io/torremuelle
+carvajal,Carvajal,36.5703735,-4.5938788,rail-24,Cercanías C1,Q5845978,n,https://alangranteu.github.io/carvajal
+torreblanca,Torreblanca,36.564969,-4.6065701,rail-24,Cercanías C1,Q5672229,n,https://alangranteu.github.io/torreblanca
+los-boliches,Los Boliches,36.5546249,-4.6145872,rail-24,Cercanías C1,Q8840986,n,https://alangranteu.github.io/los-boliches
+fuengirola,Fuengirola,36.5418102,-4.623976,rail-24,Cercanías C1,Q11681648,n,https://alangranteu.github.io/fuengirola
+los-álamos,Los Álamos,36.6447488,-4.4855,rail-24,Cercanías C1,Q5846641,n,https://alangranteu.github.io/los-álamos
+montemar-alto,Montemar Alto,36.6136503,-4.5094951,rail-24,Cercanías C1,Q5846743,n,https://alangranteu.github.io/montemar-alto
+Málaga-centro-alameda,Málaga Centro - Alameda,36.7154274,-4.4265592,rail-24,"Cercaníás C1, Cercanías C2, Proximidad",Q604972,n,https://alangranteu.github.io/Málaga-centro-alameda
+málaga-maría-zambrano,Málaga María Zambrano,36.7116198,-4.4323605,rail-24,"AVE, AVANT, AVLO, Iryo, MD, Cercaníás C1, Cercanías C2, Proximidad",Q801214,n,https://alangranteu.github.io/málaga-maría-zambrano
+álora,Álora,36.8197098,-4.6993991,rail-24-white,"MD, Cercanías C2, Proximidad",Q8842737,n,https://alangranteu.github.io/álora
+las-mellizas,Las Mellizas,36.8732189,-4.7192019,rail-24,"MD, Proximidad",Q5846566,n,https://alangranteu.github.io/las-mellizas
+El-chorro,El Chorro-Caminito del Rey,36.9070732,-4.7591329,rail-24,"MD, Proximidad",Q5846154,n,https://alangranteu.github.io/El-chorro
+bobadilla,Bobadilla,37.0376401,-4.7279832,rail-24,MD,Q5845842,n,https://alangranteu.github.io/bobadilla
+antequera-santa-ana,Antequera-Santa Ana,37.0701682,-4.7197084,rail-24-white,"AVE, AVANT, AVLO, Iryo, InterCity, MD",Q3325592,n,https://alangranteu.github.io/antequera-santa-ana
+campillos,Campillos,37.0320313,-4.8635041,rail-24,MD,Q5845936,n,https://alangranteu.github.io/campillos
+almargen-cañete-la-real,Almargen - Cañete la Real,37.0009416,-5.0198943,rail-24,MD,Q5845663,n,https://alangranteu.github.io/almargen-cañete-la-real
+ronda,Ronda,36.7485914,-5.1619649,rail-24-white,"InterCity, MD",Q3394773,n,https://alangranteu.github.io/ronda
+arriate,Arriate,36.790954,-5.1405656,rail-24,MD,Q5845729,n,https://alangranteu.github.io/arriate
+benaojan-montejaque,Benaojan-Montejaque,36.7137087,-5.2461358,rail-24,MD,Q5845806,n,https://alangranteu.github.io/benaojan-montejaque
+jimera-de-líbar,Jimera de Líbar,36.660644,-5.2813402,rail-24,MD,Q5846427,n,https://alangranteu.github.io/jimera-de-líbar
+cortes-de-la-frontera,Cortes de la Frontera,36.5971871,-5.3325655,rail-24,MD,Q5846078,n,https://alangranteu.github.io/cortes-de-la-frontera
+gaucin,Gaucin,36.5402389,-5.3868218,rail-24,MD,Q5846286,n,https://alangranteu.github.io/gaucin
+antequera-av,Antequera AV,37.0295688,-4.5609187,rail-24,AVANT,Q2918304 ,n,https://alangranteu.github.io/antequera-av
