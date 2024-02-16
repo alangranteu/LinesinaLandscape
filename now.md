@@ -12,8 +12,8 @@ Intro
 ## Earlier Updates 
 
 <details markdown="1">
-<summary markdown=“1">
-### December 2023
+<summary>
+<h3>December 2023</h3>
 </summary>
 
 - Intro old
