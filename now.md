@@ -13,7 +13,7 @@ Intro
 
 <details markdown="1">
 <summary>
-<h3>December 2023</h3>
+December 2023
 </summary>
 
 - Intro old
