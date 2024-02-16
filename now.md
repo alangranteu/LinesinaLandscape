@@ -5,16 +5,16 @@ description: What I'm up to at the moment
 
 #  Now 
 
-# Update March 2024
+## Update March 2024
 
 Intro
 
-# Earlier Updates 
+## Earlier Updates 
 
 <details>
 <summary>
 
-## December 2023
+### December 2023
 
 </summary>
 
