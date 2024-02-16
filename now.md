@@ -11,14 +11,13 @@ Intro
 
 ## Earlier Updates 
 
-<details>
+<details markdown="1">
 <summary>
-
 ### December 2023
-
 </summary>
 
-Intro old
+- Intro old
+- Intro old 2
 
 </details>
 
