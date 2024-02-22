@@ -57,3 +57,6 @@ titles_from_headings:
 relative_links:
   enabled: true
   collections: true
+
+kramdown:
+  toc_levels: 2..3
