@@ -116,3 +116,10 @@ div.blogentry img
     margin-left: auto;
     margin-right: auto;
 }
+
+#markdown-toc {
+  background-color: var(--accent-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--standard-border-radius);
+  margin-bottom: 1rem;
+} 
