@@ -117,9 +117,16 @@ div.blogentry img
     margin-right: auto;
 }
 
+// Table of contents
 #markdown-toc {
   background-color: var(--accent-bg);
   border: 1px solid var(--border);
   border-radius: var(--standard-border-radius);
   margin-bottom: 1rem;
 } 
+
+// Adding 'Contents' headline to the TOC
+#markdown-toc::before {
+    content: "Contents";
+    font-weight: bold;
+}
