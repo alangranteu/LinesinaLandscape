@@ -125,8 +125,12 @@ div.blogentry img
   margin-bottom: 1rem;
 } 
 
-/* Adding 'Contents' headline to the TOC */
+/* Adding headline to the TOC */
 #markdown-toc::before {
-    content: "Contents";
+    content: "On this page";
     font-weight: bold;
+}
+
+#markdown-toc ul {
+  padding-left: 0;
 }
