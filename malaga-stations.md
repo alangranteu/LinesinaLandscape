@@ -27,7 +27,7 @@ This is the traditional route from Málaga to Sevilla, covered by *Media Distanc
 
 Direct trains between these neighbouring provincial capitals are a surprisingly recent development. High speed *Avant* services started on this route in 2023. 
 
-#### Stations on this route 
+##### Stations on this route 
 - Málaga Maria Zambrano
 - Antequera AV
 - Loja (Granada province) 
@@ -36,7 +36,7 @@ Direct trains between these neighbouring provincial capitals are a surprisingly 
 
 This is a scenic route through the mountains around Ronda down to the port of Algeciras. 
 
-#### Stations on this route
+##### Stations on this route
 - Bobadilla 
 - Campillos
 - Almargen - Cañete la Real
@@ -51,18 +51,14 @@ This is a scenic route through the mountains around Ronda down to the port of Al
 
 This line connects the centre of Málaga to the western Costa del Sol. 
 
-### Stations on this route 
+##### Stations on this route 
 - Málaga Centro Alameda
 - Málaga María Zambrano 
-
-- Pizarra
-- Aljaima
-- Cártama
-- Campanillas
-- Los Prados
 - Victoria Kent
 - Guadalhorce
 - Aeropuerto
+- Los Álamos
+- Montemar Alto
 - La Colina
 - Torremolinos
 - El Pinillo
@@ -72,8 +68,14 @@ This line connects the centre of Málaga to the western Costa del Sol.
 - Torreblanca
 - Los Boliches
 - Fuengirola
-- Los Álamos
-- Montemar Alto
+
+
+
+- Pizarra
+- Aljaima
+- Cártama
+- Campanillas
+- Los Prados
 
 ## Metro stations
 
