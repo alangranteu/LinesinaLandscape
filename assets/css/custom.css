@@ -132,3 +132,7 @@ div.blogentry img
     font-weight: bold;
 }
 
+
+summary {
+  overflow-wrap: break-word;
+}
