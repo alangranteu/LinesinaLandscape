@@ -34,7 +34,7 @@ defaults:
     values:
       permalink: /blog/:title/
   - scope:
-      type: "malaga-stations"
+      type: "stations-in-the-south"
     values:
       layout: station
   - scope:
