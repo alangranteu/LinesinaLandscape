@@ -135,4 +135,5 @@ div.blogentry img
 
 summary {
   overflow-wrap: normal;
+  word-break: normal;
 }
