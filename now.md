@@ -1,5 +1,5 @@
 ---
-title: Now
+title: Now - Lines in a Landscape
 description: What I'm up to at the moment 
 ---
 

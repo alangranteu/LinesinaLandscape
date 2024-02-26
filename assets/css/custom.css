@@ -123,6 +123,7 @@ div.blogentry img
   border: 1px solid var(--border);
   border-radius: var(--standard-border-radius);
   margin-bottom: 1rem;
+  padding-left: 2rem;
 } 
 
 /* Adding headline to the TOC */
@@ -131,6 +132,3 @@ div.blogentry img
     font-weight: bold;
 }
 
-#markdown-toc ul {
-  padding-left: 0;
-}

@@ -21,7 +21,7 @@ feed:
 permalink: /:title/
 
 collections:
-  malaga-stations:
+  stations-in-the-south:
     output: true
     permalink: /:collection/:title/
   walks:

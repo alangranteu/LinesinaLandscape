@@ -1,5 +1,5 @@
 ---
-title: Slow Trains, Fast Walks, and vice versa - Links
+title: Links - Lines in a Landscape
 description: Links to blogs and other sites that inspired this one
 ---
 
