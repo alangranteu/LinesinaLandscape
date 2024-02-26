@@ -22,7 +22,7 @@ Stations on the route from Málaga to Sevilla
 - Málaga María Zambrano
 - Álora
 - Las Mellizas
-- [El Chorro - Caminito del Rey](_malaga-stations/el-chorro.md)
+- [El Chorro - Caminito del Rey](_stations-in-the-south/el-chorro.md)
 - Bobadilla
 - Antequera Santa Ana
 
@@ -80,7 +80,7 @@ Stations on line C-1
 - El Pinillo
 - Benalmadena - Arroyo de la Miel
 - Torremuelle
-- [Carvajal](_malaga-stations/carvajal.md)
+- [Carvajal](_stations-in-the-south/carvajal.md)
 - Torreblanca
 - Los Boliches
 - Fuengirola
