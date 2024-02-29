@@ -47,7 +47,7 @@ This is a scenic route through the mountains around Ronda down to the port of Al
 
 <details markdown="1">
 <summary>
-Stations on the route from Málaga to Granada
+Stations on the route from Antequera Santa Ana to Algeciras
 </summary>
 - Bobadilla 
 - Campillos
