@@ -112,6 +112,7 @@ Stations on line C-2
 Disused stations
 </summary>
 - Campanillas (old station)
+- Antequera Ciudad
 - Loja San Francisco *(Granada Province)*
 </details>
 
