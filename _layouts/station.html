@@ -8,6 +8,10 @@ layout: default
 <article>
 {{ content }}
 
+Include start
+{% include iframe-station.html %} 
+Include end
+
 {% assign station = site.data.stationlist | where:"slug", page.slug % | first %}
 
 <h2>Locator map</h2>
