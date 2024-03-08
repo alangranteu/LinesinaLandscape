@@ -94,8 +94,8 @@ This line winds through the lower Guadalhorce valley, sharing the first part of 
 <summary>
 Stations on line C-2
 </summary>
-- [Málaga Centro Alameda](_stations-in-the-south/malaga-centro-alameda.md)
-- [Málaga María Zambrano](_stations-in-the-south/malaga-maría-zambrano.md) 
+- [Málaga Centro Alameda](_stations-in-the-south/málaga-centro-alameda.md)
+- [Málaga María Zambrano](_stations-in-the-south/málaga-maría-zambrano.md)
 - Victoria Kent
 - Los Prados
 - Campanillas
