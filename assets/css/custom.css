@@ -88,9 +88,14 @@ header > nav a {
 /* post date */
 p.postdate {
     font-style: italic;
+    text-align: center;
+}
+
+div.blogentry p.postdate, article p.postdate {
+    text-align: left;
     padding: 0;
     margin: 0;
-} 
+}
 
 /* style each entry in blog list */
 div.blogentry

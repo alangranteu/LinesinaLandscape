@@ -2,13 +2,13 @@
 layout: default
 ---
 <article>
-<p class="postdate">
-{% if page.date %}
-  {{ page.date | date_to_string }} 
-  {% if page.last_modified_at %}
-    &nbsp;(updated {{ page.last_modified_at | date_to_string }}) 
-  {% endif %}
-{% endif %}
-</p>
 {{ content }}
 </article>
+<p class="postdate">
+  {% if page.date %}
+    This page published {{ page.date | date_to_string }} 
+    {% if page.last_modified_at %}
+      &nbsp;(, last updated {{ page.last_modified_at | date_to_string }}) 
+    {% endif %}
+  {% endif %}
+</p>

@@ -4,7 +4,7 @@ image:
   path: /assets/images/20240209-GR340-information-board-alora.jpg
   alt: "train station alt text"
 ---
-# Stations in the South: Málaga Centro-Alameda
+# Málaga Centro-Alameda
 
 This is some intro text. 
 
