@@ -1,5 +1,6 @@
 ---
 description: Photo essay about Málaga Centro-Alameda train station
+last-modified-at: 2024-03-10
 image:
   path: /assets/images/20240209-GR340-information-board-alora.jpg
   alt: "train station alt text"
