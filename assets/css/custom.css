@@ -1,3 +1,18 @@
+:root {
+  --bg: #fff;
+  --accent-bg: #fff7f5 /* #f5f7ff */; 
+  --text: #212121;
+  --text-light: #585858;
+  --border: #A48E89 /* #898EA4 */;
+  --accent: #a1470d /* #0d47a1 */;
+  --accent-hover: #e26612 /* #1266e2 */;
+  --accent-text: var(--bg);
+  --code: #d81b60;
+  --preformatted: #444;
+  --marked: #ffdd33;
+  --disabled: #efefef;
+}
+
 h1 {
   font-size: 2.5rem;
 }
@@ -14,6 +29,26 @@ h3 {
   font-size: 1.6rem;
   margin-top: 1.6rem;
 }
+
+/* Reduce header size on mobile */
+@media only screen and (max-width: 720px) {
+  h1 {
+    font-size: 2.1rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1.3rem;
+  }
+
+  h4 {
+    font-size: 1.15rem;
+  }
+}
+
 
 /* centre images and iframes in articles */ 
 article img, article iframe {
