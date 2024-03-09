@@ -19,7 +19,7 @@ This is the traditional route from Málaga to Sevilla, covered by *Media Distanc
 Stations on the route from Málaga to Sevilla
 </summary>
 
-- [Málaga María Zambrano](_stations-in-the-south/málaga-maría-zambrano.md)
+- [Málaga María Zambrano](_stations-in-the-south/malaga-maria-zambrano.md)
 - Álora
 - Las Mellizas
 - El Chorro - Caminito del Rey
@@ -36,7 +36,7 @@ Direct trains between these neighbouring provincial capitals are a surprisingly 
 <summary>
 Stations on the route from Málaga to Granada
 </summary>
-- [Málaga Maria Zambrano](_stations-in-the-south/málaga-maría-zambrano.md)
+- [Málaga Maria Zambrano](_stations-in-the-south/malaga-maria-zambrano.md)
 - Antequera AV
 - Loja *(Granada province)* 
 </details>
@@ -49,6 +49,7 @@ This is a scenic route through the mountains around Ronda down to the port of Al
 <summary>
 Stations on the route from Antequera Santa Ana to Algeciras
 </summary>
+- Antequera Santa Ana
 - Bobadilla 
 - Campillos
 - Almargen - Cañete la Real
@@ -68,8 +69,8 @@ This line connects the centre of Málaga to the western Costa del Sol.
 <summary>
 Stations on line C-1
 </summary>
-- [Málaga Centro Alameda](_stations-in-the-south/málaga-centro-alameda.md)
-- [Málaga María Zambrano](_stations-in-the-south/málaga-maría-zambrano.md)
+- [Málaga Centro Alameda](_stations-in-the-south/malaga-centro-alameda.md)
+- [Málaga María Zambrano](_stations-in-the-south/malaga-maria-zambrano.md)
 - Victoria Kent
 - Guadalhorce
 - Aeropuerto
@@ -94,8 +95,8 @@ This line winds through the lower Guadalhorce valley, sharing the first part of 
 <summary>
 Stations on line C-2
 </summary>
-- [Málaga Centro Alameda](_stations-in-the-south/málaga-centro-alameda.md)
-- [Málaga María Zambrano](_stations-in-the-south/málaga-maría-zambrano.md)
+- [Málaga Centro Alameda](_stations-in-the-south/malaga-centro-alameda.md)
+- [Málaga María Zambrano](_stations-in-the-south/malaga-maria-zambrano.md)
 - Victoria Kent
 - Los Prados
 - Campanillas
