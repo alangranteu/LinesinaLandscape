@@ -11,7 +11,7 @@ You can explore all the stations through the interactive map, or via the lists o
 * Contents
 {:toc} 
 
-<iframe loading = "lazy" style="height: 300px; width: 100%" allowfullscreen 
+<iframe style="height: 300px; width: 100%"  
 src="https://umap.openstreetmap.fr/en/map/stations-in-the-south_943076?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=null&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#8/36.9043/-4.6596"></iframe>
 <p class="mapcaption"><a href="https://umap.openstreetmap.fr/en/map/stations-in-the-south_943076?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=databrowser&captionBar=false&captionMenus=true#10/36.9043/-4.6596">Explore the full Stations in the South map</a></p>
 
