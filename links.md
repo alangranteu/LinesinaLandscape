@@ -14,6 +14,7 @@ These are a few of the blogs and websites that have in some way influenced me in
 - [Chris Wright Photography](https://chriswright.photography/)
 - [Blog de Antonio García](http://antoniogarciaprats.eu/)
 - [Tormentas y Rayos](https://blogs.diariosur.es/tormentas-y-rayos/)
+- [Viajeros en corto Málaga](https://viajerosencortomalaga.com) - see also links page
 
 ## Ireland
 - [Tough Soles](https://toughsoles.ie/ "Tough Soles") describes the epic hiking adventures of Ellie and Carl, covering all the National Waymarked Trail of Ireland and much more.
