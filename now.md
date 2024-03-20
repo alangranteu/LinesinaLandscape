@@ -9,6 +9,8 @@ description: What I'm up to at the moment
 
 Intro
 
+Jekyll working locally
+
 ## Earlier Updates 
 
 <details markdown="1">
