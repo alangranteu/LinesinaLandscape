@@ -20,8 +20,9 @@ layout: default
    {% endif %}
    </p>
    <p>{{ post.description}}</p>
-   <img src= "{{ post.image.path}}" alt="{{ post.image.alt}}"/>
-
+   {% if post.image.path %}
+      <img src= "{{ post.image.path}}" alt="{{ post.image.alt}}"/>
+   {% endif %}
  </div>
 
 {% endfor %}
