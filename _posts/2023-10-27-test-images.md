@@ -17,5 +17,14 @@ Embed portrait image
 
 <a data-flickr-embed="false" href="https://www.flickr.com/photos/alangrantphoto/53198847109/in/album-72177720305905097/" title="Former railway parcels office"><img src="https://live.staticflickr.com/65535/53198847109_67b5f6aaec_c.jpg" width="600" height="800" alt="Former railway parcels office"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Gallery, no script
+<a data-flickr-embed="false" href="https://www.flickr.com/photos/alangrantphoto/albums/72177720305817264" title="Short walks Ireland :: Belmont Way and Sugarloaf Way"><img src="https://live.staticflickr.com/65535/53600890167_0600c91706_c.jpg" width="800" height="600" alt="Short walks Ireland :: Belmont Way and Sugarloaf Way"/></a>
+
+Gallery, data and script
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/alangrantphoto/albums/72177720305817264" title="Short walks Ireland :: Belmont Way and Sugarloaf Way"><img src="https://live.staticflickr.com/65535/53600890167_0600c91706_c.jpg" width="800" height="600" alt="Short walks Ireland :: Belmont Way and Sugarloaf Way"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Gallery, data and script width 640
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/alangrantphoto/albums/72177720305817264" title="Short walks Ireland :: Belmont Way and Sugarloaf Way"><img src="https://live.staticflickr.com/65535/53600890167_0600c91706_z.jpg" width="640" height="480" alt="Short walks Ireland :: Belmont Way and Sugarloaf Way"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Text after the images.
 
