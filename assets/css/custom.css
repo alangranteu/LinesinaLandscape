@@ -159,9 +159,10 @@ div.blogentry
     margin-bottom: 0.5rem;
 }
 
-div.blogentry h5, div.blogentry p {
+div.blogentry h2, div.blogentry p {
     margin-top: 0.25rem;
     margin-bottom: 0.25rem;
+    font-size: 1rem;
 }
 
 div.blogentry img

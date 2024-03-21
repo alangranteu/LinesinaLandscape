@@ -1,5 +1,5 @@
 ---
-title: Lines in a Landscape - Blog
+title: Blog
 description: A blog about exploring by train and on foot, especially in Málaga province
 layout: default
 ---
@@ -10,7 +10,7 @@ layout: default
  
  <div class="blogentry">
  
-   <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
+   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
    <p class="postdate">
    {% if post.date %}
      {{ post.date | date_to_string }} 
@@ -21,7 +21,7 @@ layout: default
    </p>
    <p>{{ post.description}}</p>
    {% if post.image.path %}
-      <img src= "{{ post.image.path}}" alt="{{ post.image.alt}}"/>
+      <a href="{{ post.url }}"><img src= "{{ post.image.path}}" alt="{{ post.image.alt}}"></a>
    {% endif %}
  </div>
 
