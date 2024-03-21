@@ -1,8 +1,9 @@
 ---
+feature: y
 description: The Camino Geológico Malacitano (GR 340) is a new and under-publicised long-distance walking trail in Malaga province. I have recently started adding it to OpenStreetMap.
 image:
   path: /assets/images/20240209-GR340-information-board-alora.jpg
-  alt: "An information board with a map of a stage of the GR 340 walking trail, against a background of rocky mountains"
+  alt: An information board with a map of a stage of the GR 340 walking trail, against a background of rocky mountains
 ---
 # Mapping the mysterious GR 340
 
