@@ -177,6 +177,7 @@ div.blogentry img
   border-radius: var(--standard-border-radius);
   margin-bottom: 1rem;
   padding-left: 2rem;
+  line-height: 2;
 } 
 
 /* Adding headline to the TOC */
