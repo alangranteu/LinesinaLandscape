@@ -169,11 +169,6 @@ div.blogentry h3, div.blogentry p {
     font-size: 1rem;
 }
 
-div.blogentry img
-{
-    max-width: 300px;
-}
-
 /* Table of contents */
 #markdown-toc {
   background-color: var(--accent-bg);

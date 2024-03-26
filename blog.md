@@ -22,8 +22,8 @@ layout: default
    {% endif %}
    </p>
    <p>{{ post.description}}</p>
-   {% if post.image.path %}
-      <a href="{{ post.url }}"><img src= "{{ post.image.path}}" alt="{{ post.image.alt}}"></a>
+   {% if post.image-small.path %}
+      <a href="{{ post.url }}"><img src= "{{ post.image-small.path}}" alt="{{ post.image.alt}}" width="{{ post.image-small.width }}" height="{{ post.image-small.height }}"></a>
    {% endif %}
  </div>
 
