@@ -35,4 +35,3 @@ These are a few of the blogs and websites that have in some way influenced me in
 ## Miscellaneous
 - [The Online Photographer](https://theonlinephotographer.typepad.com/the_online_photographer/blog_index.html)
 - [Irish Number Ones](https://irishnumberones.com/)
-- [Kev Quirk](https://kevquirk.com/)
