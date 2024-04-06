@@ -1,11 +1,11 @@
 :root, ::backdrop {
   /* Default (light) theme */
-  --bg: #fff;
-  --accent-bg: #fff7f5 /* #f5f7ff */; 
+  --bg: #fff ;
+  --accent-bg:  #fff7f5 /* #f5f7ff */; 
   --text: #212121;
   --text-light: #585858;
-  --border: #A48E89 /* #898EA4 */;
-  --accent: #a1470d /* #0d47a1 */;
+  --border:  #A48E89 /* #898EA4 */;
+  --accent:  #a1470d /* #0d47a1 */;
   --accent-hover: #e26612 /* #1266e2 */;
   --accent-text: var(--bg);
   --code: #d81b60;
