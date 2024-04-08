@@ -1,6 +1,6 @@
 :root, ::backdrop {
   /* Default (light) theme */
-  --bg: #efeeee;
+  --bg: #fffcfc;
   --accent-bg:  #fff7f5 /* #f5f7ff */; 
   --text: #101010 /* #212121 */;
   --text-light: #585858;
