@@ -23,15 +23,15 @@ The Desfiladero del Tajo follows the the example of the Caminito de Rey in anoth
 
 The path descends gently towards the base of the Puente Nuevo. This is probably the main selling point of the Desfiladero del Tajo. There are plenty of viewpoints where you can take in the imposing sight of Ronda's 18th century bridge and the gorge it spans (EL Tajo), without the need to pay a fee or reserve a time in advance. But none of them offer quite the same vantage point.  
 
-<a loading="lazy" href="https://www.flickr.com/photos/alangrantphoto/53678375435/in/photostream/" title="This far and no further"><img src="https://live.staticflickr.com/65535/53678375435_512a2dc29c_z.jpg" width="640" height="480" alt="A walkway between green railings leads to a passage through a stone structure" loading="lazy" /></a>
+<a href="https://www.flickr.com/photos/alangrantphoto/53678375435/in/photostream/" title="This far and no further"><img src="https://live.staticflickr.com/65535/53678375435_512a2dc29c_z.jpg" width="640" height="480" alt="A walkway between green railings leads to a passage through a stone structure" loading="lazy" /></a>
 
 After only 200 metres, and just as things seem to be getting really interesting, the public part of the path comes to an end. An older path, currently closed off, continues tantalizingly through an opening in the bridge structure. There are plans for a second phase of the project to open this part up to the public, allowing the Puente Nuevo to be viewed from the other side.
 
-<a loading="lazy" href="https://www.flickr.com/photos/alangrantphoto/53678278804/in/photostream/" title="Waterfall"><img src="https://live.staticflickr.com/65535/53678278804_4c7a679689_z.jpg" width="640" height="480" alt="Climbers in hard hats with ropes above a waterfall" loading="lazy"/></a>
+<a href="https://www.flickr.com/photos/alangrantphoto/53678278804/in/photostream/" title="Waterfall"><img src="https://live.staticflickr.com/65535/53678278804_4c7a679689_z.jpg" width="640" height="480" alt="Climbers in hard hats with ropes above a waterfall" loading="lazy"/></a>
 
 When I visited, there were climbers on the cliffs of the Tajo, near the waterfall below Puente Nuevo. I felt even more embarassed about my hard hat when looking at properly adventurous people who really did need them.
 
-<a loading="lazy" href="https://www.flickr.com/photos/alangrantphoto/53678143933/in/photostream/" title="Towards the hermitage"><img src="https://live.staticflickr.com/65535/53678143933_46c6d88503_z.jpg" width="640" height="427" alt="Distant rocky mountains, with a wooded ridge in the middle distance" loading="lazy"/></a>
+<a href="https://www.flickr.com/photos/alangrantphoto/53678143933/in/photostream/" title="Towards the hermitage"><img src="https://live.staticflickr.com/65535/53678143933_46c6d88503_z.jpg" width="640" height="427" alt="Distant rocky mountains, with a wooded ridge in the middle distance" loading="lazy"/></a>
 
 It's easy to be mesmerised by Puente Nuevo, but there are also fine views looking away from Ronda towards the surrounding mountains. In this photo the Ermita de la Virgen is visible to the right of the wooded ridge. This hermitage is a fine target for a walk from Ronda in its own right, which I will probably write about some day.
 
