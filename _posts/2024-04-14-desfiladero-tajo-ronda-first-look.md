@@ -35,7 +35,7 @@ When I visited, there were climbers on the cliffs of the Tajo, near the waterfal
 
 It's easy to be mesmerised by Puente Nuevo, but there are also fine views looking away from Ronda towards the surrounding mountains. In this photo the Ermita de la Virgen is visible to the right of the wooded ridge. This hermitage is a fine target for a walk from Ronda in its own right, which I will probably write about some day.
 
-<a loading="lazy" href="https://www.flickr.com/photos/alangrantphoto/53677920831/in/dateposted/" title="View of Puente Nuevo"><img src="https://live.staticflickr.com/65535/53677920831_70ee9ddb54_z.jpg" width="640" height="427" alt="View of the Puente Nuevo in Ronda from below. A tall arched stone bridge with cliffs on either side, and greenery and flowers in the foreground." loading="lazy"/></a>
+<a href="https://www.flickr.com/photos/alangrantphoto/53677920831/in/dateposted/" title="View of Puente Nuevo"><img src="https://live.staticflickr.com/65535/53677920831_70ee9ddb54_z.jpg" width="640" height="427" alt="View of the Puente Nuevo in Ronda from below. A tall arched stone bridge with cliffs on either side, and greenery and flowers in the foreground." loading="lazy"/></a>
 
 Returning to the ticket office, there is access to another viewpoint allowing visitors to admire Puente Nuevo from a little further away.
 
