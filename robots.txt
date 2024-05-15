@@ -1,4 +1,4 @@
-Sitemap: https://balkanology.com/sitemap.xml
+Sitemap: https://linesinalandscape.com/sitemap.xml
 User-agent: *
 Allow: /
 
