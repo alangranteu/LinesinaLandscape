@@ -14,7 +14,7 @@ image-small:
 
 # A first look at Ronda's Desfiladero del Tajo walkway
 
-Last week I read newspaper reports about a new tourist attraction opening in Ronda: a walkway through part of the Tajo gorge that cuts through the city. Access to the walk follows a similar model to the Caminito del Rey, also in Malaga province. There is a fee to enter, and reservations are required to secure entry during a specific time slot. I was able to buy a ticket for Saturday, the first day the walk was open to the general public. 
+Last week I read newspaper reports about a new tourist attraction opening in Ronda: a walkway through part of the Tajo gorge that cuts through the city. Access to the walk follows a similar model to the Caminito del Rey, also in Malaga province. There is a fee to enter, and reservations are required to secure entry during a specific time slot. I was able to buy a ticket for Saturday, the first day the walk was open to the general public.
 
 <a href="https://www.flickr.com/photos/alangrantphoto/53677921616/in/album-72177720316463831/" title="Desfiladero del Tajo"><img src="https://live.staticflickr.com/65535/53677921616_5ed4883d50_z.jpg" width="480" height="640" alt="Desfiladero del Tajo - walkers in hard hats on a path below a vertical cliff, with a tall stone bridge in the background"/></a>
 
@@ -44,4 +44,3 @@ ttle further away.
 Overall, I wouldn't class the Desfiladero del Tajo as an essential part of a visit to Ronda - although that might change when the second phase opens. There are so many fine walks and viewpoints around the town that it seems a pity to restrict yourself to a specific time slot for the sake of a mere 400 metres of walking. But if it fits with your other plans, it does offer something a little different.
 
 For more information and ticket purchases, see the [official Desfiladero del Tajo website](https://desfiladerodeltajo.info/).
-

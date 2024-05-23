@@ -192,3 +192,10 @@ summary {
   overflow-wrap: normal;
   word-break: normal;
 }
+
+figcaption {
+  font-size: 1rem;
+  color: var(--text-light);
+  margin: auto;
+  max-width: 640px;
+}

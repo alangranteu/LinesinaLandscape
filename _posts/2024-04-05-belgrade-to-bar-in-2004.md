@@ -19,7 +19,7 @@ Twenty years ago today, I bought a ticket to travel the following day, from the 
 
 In 2004 Serbia and Montenegro was still notionally unified, but operated in many respects as two separate countries. As you can see, tickets were still issued in the name of "Jugoslovenské železnice" (Yugoslav Railways), but that wouldn't last much longer. The reservation slip shows a price of 15 million dinars: it must have been printed many years before, in the era of hyperinflation. By the time of my visit the redenominated dinar had returned to a more sensible value, and old 500 million dinar notes were sold as souvenirs to the relatively few tourists who visited Belgrade.
 
-I had been looking forward to the famous scenery along the line, but the further south we travelled, the worse the weather got. By the time we reached Montenegro, nothing at all was visible through the mist and rain. Still, it was an enjoyable trip thanks to the friendly passengers sharing my compartment, who generously shared their provisions of Serbian-manufactured Jaffa cakes. 
+I had been looking forward to the famous scenery along the line, but the further south we travelled, the worse the weather got. By the time we reached Montenegro, nothing at all was visible through the mist and rain. Still, it was an enjoyable trip thanks to the friendly passengers sharing my compartment, who generously shared their provisions of Serbian-manufactured Jaffa cakes.
 
 I took some further short trips on the Montenegrin section of the line over the following days, but the weather didn't improve much, so I ended up with an underwhelming set of photos that don't do the route justice.
 

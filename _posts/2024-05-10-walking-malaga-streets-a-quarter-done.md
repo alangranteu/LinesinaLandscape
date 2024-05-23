@@ -11,13 +11,13 @@ image-small:
   width: 320
   height: 256
 ---
-# Walking Malaga's streets: one quarter completed 
+# Walking Malaga's streets: one quarter completed
 
 Today I noticed that according to the [CityStrides website](https://citystrides.com/), I have walked or run 25% of the named streets in the municipality of Malaga. To be precise, I have covered X streets, with Y remaining. (The remaining streets are those that I have never visited at all, plus those that I have only partially completed). 
 
 <img alt="Screenshot from the CityStrides website, showing a map of GPS traces overlaid over the city of Malaga, with some statistics. Just over 25% of streets have been completed." src="/assets/images/20240510-citystrides-malaga-25pc.jpg" width="640" height="511">
 
-I am a relatively recent convert to CityStrides, and to the "Every Single Street" or "Run Every Street" concept. I first became curious about it towards the end of last year, and uploaded all my past GPS traces. I am certainly not a hardcore member of the community, some of whom would probably be amused that anyone would publicise a paltry 25% completion rate. For one thing, I mainly walk, with only the occasional run. And I don't usually set out with racking up new streets as my main aim (although my natural curiosity does lead to me seeking out neighbourhoods I have never visited). 
+I am a relatively recent convert to CityStrides, and to the "Every Single Street" or "Run Every Street" concept. I first became curious about it towards the end of last year, and uploaded all my past GPS traces. I am certainly not a hardcore member of the community, some of whom would probably be amused that anyone would publicise a paltry 25% completion rate. For one thing, I mainly walk, with only the occasional run. And I don't usually set out with racking up new streets as my main aim (although my natural curiosity does lead to me seeking out neighbourhoods I have never visited).
 
 Often when walking around the city I am more focused on surveying for [OpenStreetMap](https://www.openstreetmap.org/welcome). These turn out to be nicely complementary activities. CityStrides is based entirely on OpenStreetMap (OSM) data, so using the tool often alerts me to things that need updating in OSM. If I can't complete a street in CityStrides because it is closed to the public, for example, it usually indicates that access tags need to be modified in OSM. I have also discovered a surprisingly high number of streets that consist at least partly of steps, but are mapped as normal streets.
 
