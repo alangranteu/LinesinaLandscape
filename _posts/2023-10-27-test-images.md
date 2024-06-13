@@ -13,6 +13,8 @@ image-small:
 ---
 # A test blog post for images
 
+test after reset
+
 Embed landscape image size z remove script
 <a href="https://www.flickr.com/photos/alangrantphoto/53197035953/in/album-72177720305905097/" title="Mural in Mulgrave Street, Dún Laoghaire"><img src="https://live.staticflickr.com/65535/53197035953_185ce95bdd_z.jpg" width="640" height="480" alt="Mural in Mulgrave Street, Dún Laoghaire"/></a>
 
