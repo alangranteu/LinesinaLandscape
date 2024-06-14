@@ -5,8 +5,8 @@ plugins:
   - jekyll-seo-tag
 
 # SEO Stuff
-name: Lines in a Landscape
-title: Lines in a Landscape
+name: Lines in a Landscape (Testing)
+title: Lines in a Landscape (Testing)
 author: Alan Grant
 description: A personal site and blog about train travel and hiking, mainly in the province of Málaga
 lang: en
