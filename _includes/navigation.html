@@ -1,24 +1,27 @@
+{% assign current_false = nil %}
+{% assign current_true = 'aria-current="page"' %}
+
 <nav>
   {% for item in site.data.navigation %}
-    {% assign linkclass = nil %}
+    {% assign current = current_false %}
     {% if page.url == item.link %} 
-      {% assign linkclass = 'current' %} 
+      {% assign current = current_true %} 
     {% elsif item.link != '/' and page.url contains item.link %} 
-      {% assign linkclass = 'current' %} 
+      {% assign current = current_true %} 
     {% endif %}
-    <a href="{{ item.link }}" class="{{ linkclass }}">{{ item.name }}</a>
+    <a href="{{ item.link }}" {{ current }}>{{ item.name }}</a>
   {% endfor %}
 </nav>
 
 <nav>
   {% for item in site.data.navigation2 %}
-    {% assign linkclass = nil %}
+    {% assign current = current_false %}
     {% if page.url == item.link %} 
-      {% assign linkclass = 'current' %} 
+      {% assign current = current_true %} 
     {% elsif item.link != '/' and page.url contains item.link %} 
-      {% assign linkclass = 'current' %} 
+      {% assign current = current_true %} 
     {% endif %}
-    <a href="{{ item.link }}" class="{{ linkclass }}">{{ item.name }}</a>
+    <a href="{{ item.link }}" {{ current }}>{{ item.name }}</a>
   {% endfor %}
 </nav>
 
